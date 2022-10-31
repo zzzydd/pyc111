@@ -1,0 +1,8 @@
+name, height, weight
+Richard, 1.74, 80
+Tom, 1.80, 90
+Tommy, 1.65, 65
+Mary, 1.95, 95
+Jane, 1.55, 45
+Kamma, 1.68, 86
+Aha, 1.45, 75
