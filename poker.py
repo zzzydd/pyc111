@@ -8,7 +8,7 @@ player_cards = list()
 player_cards.append(deck.pop())
 print("Your cards:", player_cards)
 answer = input("請問你要補牌嗎？")
-while answer != "n" or answer != "N":
+while answer != "n" and answer != "N":
     #在這裡面寫把牌加到player_cards串列中的程式
     #同時也要判斷，如果在補完牌之後，玩加的分數爆了，就要立即中斷程式
     pass
