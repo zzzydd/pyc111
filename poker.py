@@ -1,6 +1,6 @@
 import random
 
-card_face = ["Daimond"]*13 + ["Spade"]*13 + ["Heart"] * 13 + ["Club"] * 13
+card_face = ["Diamond"]*13 + ["Spade"]*13 + ["Heart"] * 13 + ["Club"] * 13
 card_value = [i for i in range(1, 14)] * 4
 deck = [item for item in zip(card_face, card_value)]
 random.shuffle(deck)
